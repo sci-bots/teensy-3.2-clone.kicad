@@ -1,0 +1,626 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /58C2ADA4;
+Reference = C1;
+ValeurCmp = CAPACITOR-0.1UF;
+IdModule  = C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2AE6C;
+Reference = C2;
+ValeurCmp = CAPACITOR-2.2UF;
+IdModule  = C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2AF34;
+Reference = C3;
+ValeurCmp = CAPACITOR-2.2UF;
+IdModule  = C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2AFFC;
+Reference = C4;
+ValeurCmp = CAPACITOR-0.1UF;
+IdModule  = C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2B0C4;
+Reference = C5;
+ValeurCmp = CAPACITOR-0.1UF;
+IdModule  = C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2B18C;
+Reference = C6;
+ValeurCmp = CAPACITOR-2.2UF;
+IdModule  = C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2B254;
+Reference = C7;
+ValeurCmp = CAPACITOR-0.1UF;
+IdModule  = C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2B31C;
+Reference = C8;
+ValeurCmp = CAPACITOR-0.1UF;
+IdModule  = C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2B3E4;
+Reference = C9;
+ValeurCmp = CAPACITOR-0.1UF;
+IdModule  = C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2B4AC;
+Reference = C10;
+ValeurCmp = CAPACITOR-22PF;
+IdModule  = C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2B574;
+Reference = C11;
+ValeurCmp = CAPACITOR-22PF;
+IdModule  = C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2B63C;
+Reference = C12;
+ValeurCmp = CAPACITOR-0.1UF;
+IdModule  = C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2B704;
+Reference = G1;
+ValeurCmp = CRYSTAL-HC49US;
+IdModule  = HC49US;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2B7CC;
+Reference = G2;
+ValeurCmp = CRYSTAL-TC26H;
+IdModule  = TC26H;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2C0C8;
+Reference = K1;
+ValeurCmp = MK20DX256VLH7;
+IdModule  = LQFP64-05;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2C190;
+Reference = K2;
+ValeurCmp = MKL04Z32VLC4;
+IdModule  = LQFP32-08;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2C258;
+Reference = P1;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2C320;
+Reference = R1;
+ValeurCmp = FUSE;
+IdModule  = F0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2C3E8;
+Reference = R2;
+ValeurCmp = FERRITE;
+IdModule  = L0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2C4B0;
+Reference = R3;
+ValeurCmp = RESISTOR-470R;
+IdModule  = R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2C578;
+Reference = R4;
+ValeurCmp = FERRITE;
+IdModule  = L0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2C640;
+Reference = R5;
+ValeurCmp = RESISTOR-33R;
+IdModule  = R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2C708;
+Reference = R6;
+ValeurCmp = RESISTOR-33R;
+IdModule  = R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2C7D0;
+Reference = R7;
+ValeurCmp = DIODE_DUAL;
+IdModule  = SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2C898;
+Reference = R8;
+ValeurCmp = RESISTOR-470R;
+IdModule  = R0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2C960;
+Reference = S1;
+ValeurCmp = TACT_SWITCH;
+IdModule  = ALPS_SKHH;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2CA28;
+Reference = SJ1;
+ValeurCmp = SOLDERJUMPER;
+IdModule  = SOLDERJUMPER;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2CAF0;
+Reference = SX1;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2CBB8;
+Reference = SX2;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2CC80;
+Reference = SX3;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2CD48;
+Reference = SX4;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2CE10;
+Reference = SX5;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2CED8;
+Reference = SX6;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2CFA0;
+Reference = SX7;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D068;
+Reference = SX8;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D130;
+Reference = SX9;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D1F8;
+Reference = SX10;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D2C0;
+Reference = SX11;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D388;
+Reference = SX12;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D450;
+Reference = SX13;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D518;
+Reference = SX14;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D5E0;
+Reference = SX15;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D6A8;
+Reference = SX16;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D770;
+Reference = SX17;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D838;
+Reference = SX18;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D900;
+Reference = SX19;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2D9C8;
+Reference = SX20;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2DA90;
+Reference = SX21;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2DB58;
+Reference = SX22;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2DC20;
+Reference = SX23;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2DCE8;
+Reference = SX24;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2DDB0;
+Reference = SX25;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2DE78;
+Reference = SX26;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2DF40;
+Reference = SX27;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E008;
+Reference = SX28;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E0D0;
+Reference = SX29;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E198;
+Reference = SX30;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E260;
+Reference = SX31;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E328;
+Reference = SX32;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E3F0;
+Reference = SX33;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E4B8;
+Reference = SX34;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E580;
+Reference = SX35;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E648;
+Reference = SX36;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E710;
+Reference = SX37;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E7D8;
+Reference = SX38;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E8A0;
+Reference = SX39;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2E968;
+Reference = SX40;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2EA30;
+Reference = SX41;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2EAF8;
+Reference = SX42;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2EBC0;
+Reference = SX43;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2EC88;
+Reference = SX44;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2ED50;
+Reference = SX45;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2EE18;
+Reference = SX46;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2EEE0;
+Reference = SX47;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2EFA8;
+Reference = SX48;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F070;
+Reference = SX49;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F138;
+Reference = SX50;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F200;
+Reference = SX51;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F2C8;
+Reference = SX52;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F390;
+Reference = SX53;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F458;
+Reference = SX54;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F520;
+Reference = SX55;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F5E8;
+Reference = SX56;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F6B0;
+Reference = SX57;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F778;
+Reference = SX58;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F840;
+Reference = SX59;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F908;
+Reference = SX60;
+ValeurCmp = PIN;
+IdModule  = PTH_39MIL;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2F9D0;
+Reference = T1;
+ValeurCmp = LDO;
+IdModule  = SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = /58C2FA98;
+Reference = X1;
+ValeurCmp = MINI-USBMOLEX_0675031230;
+IdModule  = MOLEX_SD-67503-010;
+EndCmp
+
+EndListe
