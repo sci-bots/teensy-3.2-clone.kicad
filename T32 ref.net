@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source "C:/Users/ryan/Documents/dev/eagle/teensy-boards/Teensy 3.2 reference board clone/kicad/T32 ref.sch")
-    (date "2017-03-10 9:03:32 AM")
+    (source "C:/Users/ryan/Documents/dev/kicad/Teensy 3.2 reference board clone/T32 ref.sch")
+    (date "2017-03-15 2:28:20 PM")
     (tool "Eeschema 4.0.1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -155,7 +155,7 @@
       (tstamp 58C2C76C))
     (comp (ref R7)
       (value ~)
-      (footprint SOT-23)
+      (footprint "T32 ref:SOT-23")
       (libsource (lib "T32 ref") (part DIODE_DUAL))
       (sheetpath (names /) (tstamps /))
       (tstamp 58C2C834))
@@ -539,7 +539,7 @@
       (tstamp 58C2F96C))
     (comp (ref T1)
       (value MCP1825S)
-      (footprint SOT-223)
+      (footprint "T32 ref:SOT-223")
       (libsource (lib "T32 ref") (part LDO))
       (sheetpath (names /) (tstamps /))
       (tstamp 58C2FA34))
@@ -823,7 +823,7 @@
         (pin (num 4) (name 3) (type passive)))))
   (libraries
     (library (logical "T32 ref")
-      (uri "C:\\Users\\ryan\\Documents\\dev\\eagle\\teensy-boards\\Teensy 3.2 reference board clone\\kicad\\T32 ref.lib")))
+      (uri "C:\\Users\\ryan\\Documents\\dev\\kicad\\Teensy 3.2 reference board clone\\T32 ref.lib")))
   (nets
     (net (code 1) (name /N$70)
       (node (ref K1) (pin 25))

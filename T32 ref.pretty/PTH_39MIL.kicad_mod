@@ -1,0 +1,11 @@
+(module PTH_39MIL (layer F.Cu) (tedit 58C98734)
+  (attr virtual)
+  (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
+    (effects (font (thickness 0.15)))
+  )
+  (fp_text value Val** (at 0 0) (layer F.SilkS) hide
+    (effects (font (thickness 0.15)))
+  )
+  (fp_circle (center 0 0) (end -0.22352 0.22352) (layer Dwgs.User) (width 0.02286))
+  (pad 1 thru_hole circle (at 0 0) (size 1.4986 1.4986) (drill 0.9906) (layers *.Cu *.Paste *.Mask))
+)
