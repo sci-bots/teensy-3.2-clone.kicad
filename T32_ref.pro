@@ -1,4 +1,4 @@
-update=2017-03-15 4:09:53 PM
+update=2017-03-15 4:49:14 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,11 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[eeschema]
-version=1
-LibDir=
-[eeschema/libraries]
-LibName1=T32 ref
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -40,3 +35,8 @@ NetFmtName=Pcbnew
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[eeschema]
+version=1
+LibDir=
+[eeschema/libraries]
+LibName1=T32_ref
